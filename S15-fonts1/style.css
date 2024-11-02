@@ -1,0 +1,72 @@
+#heading1 {
+  background-color: orange;
+  font-size: 1.8rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 10px;
+  text-align: center;
+  padding: 5px;
+}
+
+#RRRh {
+  background-color: lightyellow;
+  font-size: 1.6rem;
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 10px;
+  width: 60px;
+  padding: 5px;
+}
+
+#RRRp {
+  background-color: beige;
+  font-size: 1.3rem;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: 380px;
+  height: 230px;
+  text-align: justify;
+  display: inline-block;
+}
+#Bahubalih {
+  background-color: lightgreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.6rem;
+  border-radius: 10px;
+  width: 110px;
+  padding: 5px;
+}
+
+#Bahubalipic {
+  width: 220px;
+  height: 220px;
+}
+
+#Bahubalip {
+  background-color: lightseagreen;
+  font-family: cursive;
+  font-size: 1.3rem;
+  width: 400px;
+  height: 200px;
+  text-align: justify;
+  display: inline-block;
+  overflow: auto;
+}
+
+#Devarah {
+  background-color: lightgrey;
+  font-family: fantasy;
+  font-size: 1.6rem;
+  width: 80px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+#Devarap {
+  background-color: lightgreen;
+  font-size: 1.3rem;
+  font-family: sans-serif;
+}
+
+#backgroundc {
+  background-color: lightcoral;
+}
